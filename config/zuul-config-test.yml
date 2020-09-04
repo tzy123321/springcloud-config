@@ -6,3 +6,7 @@ zuul:
     service-b:
       path: /service-btest/**
       serviceId: service-b
+    service-c:
+      path: /service-c/**
+      serviceId: service-c
+      
