@@ -6,6 +6,3 @@ zuul:
     service-b:
       path: /service-b/**
       serviceId: service-b
-ribbon:
-  ReadTimeout: 3000
-  ConnectTimeout: 30000
