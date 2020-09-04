@@ -4,5 +4,5 @@ zuul:
       path: /service-a/**
       serviceId: service-a
     service-b:
-      path: /service-b/**
+      path: /service-btest/**
       serviceId: service-b
